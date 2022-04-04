@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">pruebaSHapi</string>
+    <!-- TODO: Remove or change this placeholder text -->
+
+    <string name="Nombre_realDetalle">Nombre real</string>
+    <string name="combate">Combate</string>
+    <string name="inteligencia">Inteligencia</string>
+    <string name="durabilidad">Durabilidad</string>
+    <string name="POder">Poder</string>
+    <string name="velocidad">Velocidad</string>
+    <string name="Fuerza">Fuerza</string>
+    <string name="altura">Altura</string>
+    <string name="api_error">ERROR DE CONEXÍON</string>
+</resources>
