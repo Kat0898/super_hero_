@@ -17,7 +17,7 @@
 
         <androidx.cardview.widget.CardView
             android:layout_width="300dp"
-            android:layout_height="wrap_content"
+            android:layout_height="150dp"
             android:layout_margin="10dp"
             android:backgroundTint="@color/Fondo"
             android:shadowColor="@color/cardview_shadow_start_color"
@@ -54,8 +54,8 @@
 
                 <ImageView
                     android:id="@+id/imageView"
-                    android:layout_width="132dp"
-                    android:layout_height="76dp"
+                    android:layout_width="100dp"
+                    android:layout_height="55dp"
                     app:layout_column="8"
                     app:layout_row="0"
                     app:srcCompat="@drawable/ic_logo100op" />
